@@ -1,0 +1,22 @@
+.row1{
+    height: 200px;
+    background-color: blue;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  background: rgb(192, 231, 192);
+  color: #333;
+}
+.utllogo{
+    height: 40px;
+        max-width:10px;
+
+}
+
+nav ul{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
